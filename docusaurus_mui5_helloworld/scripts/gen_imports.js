@@ -40,10 +40,12 @@ let old_mother_comp_name = "";
       import_lines.push(import_line);
 
       if (mother_comp_name !== old_mother_comp_name) {
-        component_lines.push(`# ${mother_comp_name}`);
+        component_lines.push(`\n## ${mother_comp_name}\n`);
         old_mother_comp_name = mother_comp_name;
       }
-      component_lines.push(`## ${import_comp_name} \n <${import_comp_name} />`);
+      component_lines.push(
+        `### ${import_comp_name}\n\n<${mother_comp_name}${import_comp_name} />\n`
+      );
     }
   }
 
