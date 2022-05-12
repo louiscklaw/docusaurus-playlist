@@ -9,6 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "init_helloworld": "npx create-docusaurus@latest docusaurus-helloworld classic",
+    "clone_helloworld": "pushd docusaurus-helloworld && rm -rf node_modules && popd && cp -R docusaurus-helloworld ",
     "gitUpdate": "git add . && git commit -m'update root,' && git push"
   },
   "repository": {
