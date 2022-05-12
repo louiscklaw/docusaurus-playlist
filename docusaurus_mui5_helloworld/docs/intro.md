@@ -1,6 +1,10 @@
+import {Button} from "@mui/material";
+import TypographyHelloworld from '@site/src/components/Typography/helloworld';
+import AlertHelloworld from '@site/src/components/Alert/helloworld';
+
 ---
-sidebar_position: 1
----
+
+## sidebar_position: 1
 
 # Tutorial Intro
 
