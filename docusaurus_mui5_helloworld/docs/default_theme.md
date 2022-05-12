@@ -269,13 +269,15 @@ import PopoverAnchorPlaygroundHelloworld from "@site/src/components/from_mui/pop
 import PopoverBasicPopoverHelloworld from "@site/src/components/from_mui/popover/BasicPopover";
 import PopoverMouseOverPopoverHelloworld from "@site/src/components/from_mui/popover/MouseOverPopover";
 import PopoverPopoverPopupStateHelloworld from "@site/src/components/from_mui/popover/PopoverPopupState";
-import PopperPopperPopupStateHelloworld from "@site/src/components/from_mui/popper/PopperPopupState";
-import PopperPositionedPopperHelloworld from "@site/src/components/from_mui/popper/PositionedPopper";
-import PopperScrollPlaygroundHelloworld from "@site/src/components/from_mui/popper/ScrollPlayground";
-import PopperSimplePopperHelloworld from "@site/src/components/from_mui/popper/SimplePopper";
-import PopperSpringPopperHelloworld from "@site/src/components/from_mui/popper/SpringPopper";
-import PopperTransitionsPopperHelloworld from "@site/src/components/from_mui/popper/TransitionsPopper";
-import PopperVirtualElementPopperHelloworld from "@site/src/components/from_mui/popper/VirtualElementPopper";
+
+<!-- import PopperPopperPopupStateHelloworld from "@site/src/components/from_mui/popper/PopperPopupState"; -->
+<!-- import PopperPositionedPopperHelloworld from "@site/src/components/from_mui/popper/PositionedPopper"; -->
+<!-- import PopperScrollPlaygroundHelloworld from "@site/src/components/from_mui/popper/ScrollPlayground"; -->
+<!-- import PopperSimplePopperHelloworld from "@site/src/components/from_mui/popper/SimplePopper"; -->
+<!-- import PopperSpringPopperHelloworld from "@site/src/components/from_mui/popper/SpringPopper"; -->
+<!-- import PopperTransitionsPopperHelloworld from "@site/src/components/from_mui/popper/TransitionsPopper"; -->
+<!-- import PopperVirtualElementPopperHelloworld from "@site/src/components/from_mui/popper/VirtualElementPopper"; -->
+
 import PortalSimplePortalHelloworld from "@site/src/components/from_mui/portal/SimplePortal";
 import ProgressCircularColorHelloworld from "@site/src/components/from_mui/progress/CircularColor";
 import ProgressCircularDeterminateHelloworld from "@site/src/components/from_mui/progress/CircularDeterminate";
