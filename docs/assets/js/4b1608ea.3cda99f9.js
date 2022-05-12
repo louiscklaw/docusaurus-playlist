@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_helloworld=self.webpackChunkdocusaurus_helloworld||[]).push([[8739],{114:function(l){l.exports=JSON.parse('{"permalink":"/docusaurus-playlist/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
