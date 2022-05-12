@@ -1,6 +1,4 @@
-import {Button} from "@mui/material";
-import TypographyHelloworld from '@site/src/components/Typography/helloworld';
-import AlertHelloworld from '@site/src/components/Alert/helloworld';
+import TestTheme from '@site/src/Themes/TestTheme';
 
 ---
 
