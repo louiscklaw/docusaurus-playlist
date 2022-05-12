@@ -17,6 +17,9 @@ async function* getFiles(dir) {
 }
 
 let import_lines = [];
+let component_lines = [];
+let old_mother_comp_name = "";
+
 (async () => {
   for await (const f of getFiles("src/components/from_mui")) {
     if (f.endsWith(".js")) {
@@ -35,10 +38,20 @@ let import_lines = [];
 
       console.log({ test: mother_comp_name });
       import_lines.push(import_line);
+
+      if (mother_comp_name !== old_mother_comp_name) {
+        component_lines.push(`# ${mother_comp_name}`);
+        old_mother_comp_name = mother_comp_name;
+      }
+      component_lines.push(`## ${import_comp_name} \n <${import_comp_name} />`);
     }
   }
 
   fs.writeFileSync("./import_lines.tmp", import_lines.join("\n"), {
+    encoding: "utf8",
+  });
+
+  fs.writeFileSync("./component_lines.tmp", component_lines.join("\n"), {
     encoding: "utf8",
   });
 })();
