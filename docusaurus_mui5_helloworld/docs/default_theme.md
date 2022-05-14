@@ -833,15 +833,15 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### TagsHelloworld
 
-<!-- <AutocompleteTagsHelloworld /> -->
+<AutocompleteTagsHelloworld />
 
 ### UseAutocompleteHelloworld
 
-<!-- <AutocompleteUseAutocompleteHelloworld /> -->
+<AutocompleteUseAutocompleteHelloworld />
 
 ### VirtualizeHelloworld
 
-<!-- <AutocompleteVirtualizeHelloworld /> -->
+<AutocompleteVirtualizeHelloworld />
 
 ## Avatars
 
@@ -883,55 +883,55 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### VariantAvatarsHelloworld
 
-<!-- <AvatarsVariantAvatarsHelloworld /> -->
+<AvatarsVariantAvatarsHelloworld />
 
 ## Backdrop
 
 ### SimpleBackdropHelloworld
 
-<!-- <BackdropSimpleBackdropHelloworld /> -->
+<BackdropSimpleBackdropHelloworld />
 
 ## Badges
 
 ### AccessibleBadgesHelloworld
 
-<!-- <BadgesAccessibleBadgesHelloworld /> -->
+<BadgesAccessibleBadgesHelloworld />
 
 ### BadgeAlignmentHelloworld
 
-<!-- <BadgesBadgeAlignmentHelloworld /> -->
+<BadgesBadgeAlignmentHelloworld />
 
 ### BadgeMaxHelloworld
 
-<!-- <BadgesBadgeMaxHelloworld /> -->
+<BadgesBadgeMaxHelloworld />
 
 ### BadgeOverlapHelloworld
 
-<!-- <BadgesBadgeOverlapHelloworld /> -->
+<BadgesBadgeOverlapHelloworld />
 
 ### BadgeVisibilityHelloworld
 
-<!-- <BadgesBadgeVisibilityHelloworld /> -->
+<BadgesBadgeVisibilityHelloworld />
 
 ### ColorBadgeHelloworld
 
-<!-- <BadgesColorBadgeHelloworld /> -->
+<BadgesColorBadgeHelloworld />
 
 ### CustomizedBadgesHelloworld
 
-<!-- <BadgesCustomizedBadgesHelloworld /> -->
+<BadgesCustomizedBadgesHelloworld />
 
 ### DotBadgeHelloworld
 
-<!-- <BadgesDotBadgeHelloworld /> -->
+<BadgesDotBadgeHelloworld />
 
 ### ShowZeroBadgeHelloworld
 
-<!-- <BadgesShowZeroBadgeHelloworld /> -->
+<BadgesShowZeroBadgeHelloworld />
 
 ### SimpleBadgeHelloworld
 
-<!-- <BadgesSimpleBadgeHelloworld /> -->
+<BadgesSimpleBadgeHelloworld />
 
 ## BottomNavigation
 
@@ -961,27 +961,27 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### ActiveLastBreadcrumbHelloworld
 
-<!-- <BreadcrumbsActiveLastBreadcrumbHelloworld /> -->
+<BreadcrumbsActiveLastBreadcrumbHelloworld />
 
 ### BasicBreadcrumbsHelloworld
 
-<!-- <BreadcrumbsBasicBreadcrumbsHelloworld /> -->
+<BreadcrumbsBasicBreadcrumbsHelloworld />
 
 ### CollapsedBreadcrumbsHelloworld
 
-<!-- <BreadcrumbsCollapsedBreadcrumbsHelloworld /> -->
+<BreadcrumbsCollapsedBreadcrumbsHelloworld />
 
 ### CustomSeparatorHelloworld
 
-<!-- <BreadcrumbsCustomSeparatorHelloworld /> -->
+<BreadcrumbsCustomSeparatorHelloworld />
 
 ### CustomizedBreadcrumbsHelloworld
 
-<!-- <BreadcrumbsCustomizedBreadcrumbsHelloworld /> -->
+<BreadcrumbsCustomizedBreadcrumbsHelloworld />
 
 ### IconBreadcrumbsHelloworld
 
-<!-- <BreadcrumbsIconBreadcrumbsHelloworld /> -->
+<BreadcrumbsIconBreadcrumbsHelloworld />
 
 ### RouterBreadcrumbsHelloworld
 
@@ -991,11 +991,11 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### BasicButtonGroupHelloworld
 
-<!-- <ButtonGroupBasicButtonGroupHelloworld /> -->
+<ButtonGroupBasicButtonGroupHelloworld />
 
 ### DisableElevationHelloworld
 
-<!-- <ButtonGroupDisableElevationHelloworld /> -->
+<ButtonGroupDisableElevationHelloworld />
 
 ### GroupOrientationHelloworld
 
