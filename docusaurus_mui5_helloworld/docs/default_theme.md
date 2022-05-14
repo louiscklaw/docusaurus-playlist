@@ -440,11 +440,13 @@ import SpeedDialOpenIconSpeedDialHelloworld from "@site/src/components/from_mui/
 import SpeedDialPlaygroundSpeedDialHelloworld from "@site/src/components/from_mui/speed-dial/PlaygroundSpeedDial";
 import SpeedDialSpeedDialTooltipOpenHelloworld from "@site/src/components/from_mui/speed-dial/SpeedDialTooltipOpen";
 
-<!-- import StackBasicStackHelloworld from "@site/src/components/from_mui/stack/BasicStack"; -->
-<!-- import StackDirectionStackHelloworld from "@site/src/components/from_mui/stack/DirectionStack"; -->
-<!-- import StackDividerStackHelloworld from "@site/src/components/from_mui/stack/DividerStack"; -->
+import StackBasicStackHelloworld from "@site/src/components/from_mui/stack/BasicStack";
+import StackDirectionStackHelloworld from "@site/src/components/from_mui/stack/DirectionStack";
+import StackDividerStackHelloworld from "@site/src/components/from_mui/stack/DividerStack";
+
 <!-- import StackInteractiveStackHelloworld from "@site/src/components/from_mui/stack/InteractiveStack"; -->
-<!-- import StackResponsiveStackHelloworld from "@site/src/components/from_mui/stack/ResponsiveStack"; -->
+
+import StackResponsiveStackHelloworld from "@site/src/components/from_mui/stack/ResponsiveStack";
 
 import SteppersCustomizedSteppersHelloworld from "@site/src/components/from_mui/steppers/CustomizedSteppers";
 import SteppersDotsMobileStepperHelloworld from "@site/src/components/from_mui/steppers/DotsMobileStepper";
