@@ -2147,45 +2147,45 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### IntegrationNotistackHelloworld
 
-<!-- <SnackbarsIntegrationNotistackHelloworld /> -->
+<SnackbarsIntegrationNotistackHelloworld />
 
 ### LongTextSnackbarHelloworld
 
-<!-- <SnackbarsLongTextSnackbarHelloworld /> -->
+<SnackbarsLongTextSnackbarHelloworld />
 
 ### PositionedSnackbarHelloworld
 
-<!-- <SnackbarsPositionedSnackbarHelloworld /> -->
+<SnackbarsPositionedSnackbarHelloworld />
 
 ### SimpleSnackbarHelloworld
 
-<!-- <SnackbarsSimpleSnackbarHelloworld /> -->
+<SnackbarsSimpleSnackbarHelloworld />
 
 ### TransitionsSnackbarHelloworld
 
-<!-- <SnackbarsTransitionsSnackbarHelloworld /> -->
+<SnackbarsTransitionsSnackbarHelloworld />
 
 ## SpeedDial
 
 ### BasicSpeedDialHelloworld
 
-<!-- <SpeedDialBasicSpeedDialHelloworld /> -->
+<SpeedDialBasicSpeedDialHelloworld />
 
 ### ControlledOpenSpeedDialHelloworld
 
-<!-- <SpeedDialControlledOpenSpeedDialHelloworld /> -->
+<SpeedDialControlledOpenSpeedDialHelloworld />
 
 ### OpenIconSpeedDialHelloworld
 
-<!-- <SpeedDialOpenIconSpeedDialHelloworld /> -->
+<SpeedDialOpenIconSpeedDialHelloworld />
 
 ### PlaygroundSpeedDialHelloworld
 
-<!-- <SpeedDialPlaygroundSpeedDialHelloworld /> -->
+<SpeedDialPlaygroundSpeedDialHelloworld />
 
 ### SpeedDialTooltipOpenHelloworld
 
-<!-- <SpeedDialSpeedDialTooltipOpenHelloworld /> -->
+<SpeedDialSpeedDialTooltipOpenHelloworld />
 
 ## Stack
 
