@@ -1781,19 +1781,19 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### AnchorPlaygroundHelloworld
 
-<!-- <PopoverAnchorPlaygroundHelloworld /> -->
+<PopoverAnchorPlaygroundHelloworld />
 
 ### BasicPopoverHelloworld
 
-<!-- <PopoverBasicPopoverHelloworld /> -->
+<PopoverBasicPopoverHelloworld />
 
 ### MouseOverPopoverHelloworld
 
-<!-- <PopoverMouseOverPopoverHelloworld /> -->
+<PopoverMouseOverPopoverHelloworld />
 
 ### PopoverPopupStateHelloworld
 
-<!-- <PopoverPopoverPopupStateHelloworld /> -->
+<PopoverPopoverPopupStateHelloworld />
 
 ## Popper
 
