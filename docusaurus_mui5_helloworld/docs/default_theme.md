@@ -466,38 +466,54 @@ import SwitchesSwitchLabelsHelloworld from "@site/src/components/from_mui/switch
 import SwitchesSwitchesGroupHelloworld from "@site/src/components/from_mui/switches/SwitchesGroup";
 import SwitchesSwitchesSizeHelloworld from "@site/src/components/from_mui/switches/SwitchesSize";
 
-<!-- import TablesAcccessibleTableHelloworld from "@site/src/components/from_mui/tables/AcccessibleTable"; -->
-<!-- import TablesBasicTableHelloworld from "@site/src/components/from_mui/tables/BasicTable"; -->
-<!-- import TablesCollapsibleTableHelloworld from "@site/src/components/from_mui/tables/CollapsibleTable"; -->
-<!-- import TablesColumnGroupingTableHelloworld from "@site/src/components/from_mui/tables/ColumnGroupingTable"; -->
-<!-- import TablesCustomPaginationActionsTableHelloworld from "@site/src/components/from_mui/tables/CustomPaginationActionsTable"; -->
-<!-- import TablesCustomizedTablesHelloworld from "@site/src/components/from_mui/tables/CustomizedTables"; -->
-<!-- import TablesDataTableHelloworld from "@site/src/components/from_mui/tables/DataTable"; -->
-<!-- import TablesDenseTableHelloworld from "@site/src/components/from_mui/tables/DenseTable"; -->
-<!-- import TablesEnhancedTableHelloworld from "@site/src/components/from_mui/tables/EnhancedTable"; -->
-<!-- import TablesReactVirtualizedTableHelloworld from "@site/src/components/from_mui/tables/ReactVirtualizedTable"; -->
-<!-- import TablesSpanningTableHelloworld from "@site/src/components/from_mui/tables/SpanningTable"; -->
-<!-- import TablesStickyHeadTableHelloworld from "@site/src/components/from_mui/tables/StickyHeadTable"; -->
+import TablesAcccessibleTableHelloworld from "@site/src/components/from_mui/tables/AcccessibleTable";
+import TablesBasicTableHelloworld from "@site/src/components/from_mui/tables/BasicTable";
+import TablesCollapsibleTableHelloworld from "@site/src/components/from_mui/tables/CollapsibleTable";
 
-<!-- import TabsAccessibleTabs1Helloworld from "@site/src/components/from_mui/tabs/AccessibleTabs1";
+import TablesColumnGroupingTableHelloworld from "@site/src/components/from_mui/tables/ColumnGroupingTable";
+import TablesCustomPaginationActionsTableHelloworld from "@site/src/components/from_mui/tables/CustomPaginationActionsTable";
+
+import TablesCustomizedTablesHelloworld from "@site/src/components/from_mui/tables/CustomizedTables";
+
+<!-- import TablesDataTableHelloworld from "@site/src/components/from_mui/tables/DataTable"; -->
+
+import TablesDenseTableHelloworld from "@site/src/components/from_mui/tables/DenseTable";
+
+import TablesEnhancedTableHelloworld from "@site/src/components/from_mui/tables/EnhancedTable";
+
+<!-- import TablesReactVirtualizedTableHelloworld from "@site/src/components/from_mui/tables/ReactVirtualizedTable"; -->
+
+import TablesSpanningTableHelloworld from "@site/src/components/from_mui/tables/SpanningTable";
+
+import TablesStickyHeadTableHelloworld from "@site/src/components/from_mui/tables/StickyHeadTable";
+
+import TabsAccessibleTabs1Helloworld from "@site/src/components/from_mui/tabs/AccessibleTabs1";
+
 import TabsAccessibleTabs2Helloworld from "@site/src/components/from_mui/tabs/AccessibleTabs2";
 import TabsBasicTabsHelloworld from "@site/src/components/from_mui/tabs/BasicTabs";
 import TabsCenteredTabsHelloworld from "@site/src/components/from_mui/tabs/CenteredTabs";
 import TabsColorTabsHelloworld from "@site/src/components/from_mui/tabs/ColorTabs";
+
 import TabsCustomizedTabsHelloworld from "@site/src/components/from_mui/tabs/CustomizedTabs";
 import TabsDisabledTabsHelloworld from "@site/src/components/from_mui/tabs/DisabledTabs";
-import TabsFullWidthTabsHelloworld from "@site/src/components/from_mui/tabs/FullWidthTabs";
+
+<!-- import TabsFullWidthTabsHelloworld from "@site/src/components/from_mui/tabs/FullWidthTabs"; -->
+
 import TabsIconLabelTabsHelloworld from "@site/src/components/from_mui/tabs/IconLabelTabs";
+
 import TabsIconPositionTabsHelloworld from "@site/src/components/from_mui/tabs/IconPositionTabs";
 import TabsIconTabsHelloworld from "@site/src/components/from_mui/tabs/IconTabs";
 import TabsLabTabsHelloworld from "@site/src/components/from_mui/tabs/LabTabs";
+
 import TabsNavTabsHelloworld from "@site/src/components/from_mui/tabs/NavTabs";
 import TabsScrollableTabsButtonAutoHelloworld from "@site/src/components/from_mui/tabs/ScrollableTabsButtonAuto";
 import TabsScrollableTabsButtonForceHelloworld from "@site/src/components/from_mui/tabs/ScrollableTabsButtonForce";
+
 import TabsScrollableTabsButtonPreventHelloworld from "@site/src/components/from_mui/tabs/ScrollableTabsButtonPrevent";
 import TabsScrollableTabsButtonVisibleHelloworld from "@site/src/components/from_mui/tabs/ScrollableTabsButtonVisible";
+
 import TabsTabsWrappedLabelHelloworld from "@site/src/components/from_mui/tabs/TabsWrappedLabel";
-import TabsVerticalTabsHelloworld from "@site/src/components/from_mui/tabs/VerticalTabs"; -->
+import TabsVerticalTabsHelloworld from "@site/src/components/from_mui/tabs/VerticalTabs";
 
 import TextFieldsBasicTextFieldsHelloworld from "@site/src/components/from_mui/text-fields/BasicTextFields";
 import TextFieldsColorTextFieldsHelloworld from "@site/src/components/from_mui/text-fields/ColorTextFields";
