@@ -618,113 +618,113 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### BackToTopHelloworld
 
-<!-- <AppBarBackToTopHelloworld /> -->
+<AppBarBackToTopHelloworld />
 
 ### BottomAppBarHelloworld
 
-<!-- <AppBarBottomAppBarHelloworld /> -->
+<AppBarBottomAppBarHelloworld />
 
 ### ButtonAppBarHelloworld
 
-<!-- <AppBarButtonAppBarHelloworld /> -->
+<AppBarButtonAppBarHelloworld />
 
 ### DenseAppBarHelloworld
 
-<!-- <AppBarDenseAppBarHelloworld /> -->
+<AppBarDenseAppBarHelloworld />
 
 ### ElevateAppBarHelloworld
 
-<!-- <AppBarElevateAppBarHelloworld /> -->
+<AppBarElevateAppBarHelloworld />
 
 ### EnableColorOnDarkAppBarHelloworld
 
-<!-- <AppBarEnableColorOnDarkAppBarHelloworld /> -->
+<AppBarEnableColorOnDarkAppBarHelloworld />
 
 ### HideAppBarHelloworld
 
-<!-- <AppBarHideAppBarHelloworld /> -->
+<AppBarHideAppBarHelloworld />
 
 ### MenuAppBarHelloworld
 
-<!-- <AppBarMenuAppBarHelloworld /> -->
+<AppBarMenuAppBarHelloworld />
 
 ### PrimarySearchAppBarHelloworld
 
-<!-- <AppBarPrimarySearchAppBarHelloworld /> -->
+<AppBarPrimarySearchAppBarHelloworld />
 
 ### ProminentAppBarHelloworld
 
-<!-- <AppBarProminentAppBarHelloworld /> -->
+<AppBarProminentAppBarHelloworld />
 
 ### ResponsiveAppBarHelloworld
 
-<!-- <AppBarResponsiveAppBarHelloworld /> -->
+<AppBarResponsiveAppBarHelloworld />
 
 ### SearchAppBarHelloworld
 
-<!-- <AppBarSearchAppBarHelloworld /> -->
+<AppBarSearchAppBarHelloworld />
 
 ## Autocomplete
 
 ### AsynchronousHelloworld
 
-<!-- <AutocompleteAsynchronousHelloworld /> -->
+<AutocompleteAsynchronousHelloworld />
 
 ### CheckboxesTagsHelloworld
 
-<!-- <AutocompleteCheckboxesTagsHelloworld /> -->
+<AutocompleteCheckboxesTagsHelloworld />
 
 ### ComboBoxHelloworld
 
-<!-- <AutocompleteComboBoxHelloworld /> -->
+<AutocompleteComboBoxHelloworld />
 
 ### ControllableStatesHelloworld
 
-<!-- <AutocompleteControllableStatesHelloworld /> -->
+<AutocompleteControllableStatesHelloworld />
 
 ### CountrySelectHelloworld
 
-<!-- <AutocompleteCountrySelectHelloworld /> -->
+<AutocompleteCountrySelectHelloworld />
 
 ### CustomInputAutocompleteHelloworld
 
-<!-- <AutocompleteCustomInputAutocompleteHelloworld /> -->
+<AutocompleteCustomInputAutocompleteHelloworld />
 
 ### CustomizedHookHelloworld
 
-<!-- <AutocompleteCustomizedHookHelloworld /> -->
+<AutocompleteCustomizedHookHelloworld />
 
 ### DisabledOptionsHelloworld
 
-<!-- <AutocompleteDisabledOptionsHelloworld /> -->
+<AutocompleteDisabledOptionsHelloworld />
 
 ### FilterHelloworld
 
-<!-- <AutocompleteFilterHelloworld /> -->
+<AutocompleteFilterHelloworld />
 
 ### FixedTagsHelloworld
 
-<!-- <AutocompleteFixedTagsHelloworld /> -->
+<AutocompleteFixedTagsHelloworld />
 
 ### FreeSoloHelloworld
 
-<!-- <AutocompleteFreeSoloHelloworld /> -->
+<AutocompleteFreeSoloHelloworld />
 
 ### FreeSoloCreateOptionHelloworld
 
-<!-- <AutocompleteFreeSoloCreateOptionHelloworld /> -->
+<AutocompleteFreeSoloCreateOptionHelloworld />
 
 ### FreeSoloCreateOptionDialogHelloworld
 
-<!-- <AutocompleteFreeSoloCreateOptionDialogHelloworld /> -->
+<AutocompleteFreeSoloCreateOptionDialogHelloworld />
 
 ### GitHubLabelHelloworld
 
-<!-- <AutocompleteGitHubLabelHelloworld /> -->
+<AutocompleteGitHubLabelHelloworld />
 
 ### GoogleMapsHelloworld
 
-<!-- <AutocompleteGoogleMapsHelloworld /> -->
+<AutocompleteGoogleMapsHelloworld />
 
 ### GroupedHelloworld
 
