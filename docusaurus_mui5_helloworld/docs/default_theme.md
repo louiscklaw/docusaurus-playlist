@@ -1799,31 +1799,31 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### PopperPopupStateHelloworld
 
-<!-- <PopperPopperPopupStateHelloworld /> -->
+<PopperPopperPopupStateHelloworld />
 
 ### PositionedPopperHelloworld
 
-<!-- <PopperPositionedPopperHelloworld /> -->
+<PopperPositionedPopperHelloworld />
 
 ### ScrollPlaygroundHelloworld
 
-<!-- <PopperScrollPlaygroundHelloworld /> -->
+<PopperScrollPlaygroundHelloworld />
 
 ### SimplePopperHelloworld
 
-<!-- <PopperSimplePopperHelloworld /> -->
+<PopperSimplePopperHelloworld />
 
 ### SpringPopperHelloworld
 
-<!-- <PopperSpringPopperHelloworld /> -->
+<PopperSpringPopperHelloworld />
 
 ### TransitionsPopperHelloworld
 
-<!-- <PopperTransitionsPopperHelloworld /> -->
+<PopperTransitionsPopperHelloworld />
 
 ### VirtualElementPopperHelloworld
 
-<!-- <PopperVirtualElementPopperHelloworld /> -->
+<PopperVirtualElementPopperHelloworld />
 
 ## Portal
 
