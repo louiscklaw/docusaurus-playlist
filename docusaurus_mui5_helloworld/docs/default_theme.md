@@ -424,15 +424,20 @@ import SliderTrackInvertedSliderHelloworld from "@site/src/components/from_mui/s
 import SliderVerticalAccessibleSliderHelloworld from "@site/src/components/from_mui/slider/VerticalAccessibleSlider";
 import SliderVerticalSliderHelloworld from "@site/src/components/from_mui/slider/VerticalSlider";
 
-<!-- import SnackbarsConsecutiveSnackbarsHelloworld from "@site/src/components/from_mui/snackbars/ConsecutiveSnackbars"; -->
-<!-- import SnackbarsCustomizedSnackbarsHelloworld from "@site/src/components/from_mui/snackbars/CustomizedSnackbars"; -->
-<!-- import SnackbarsDirectionSnackbarHelloworld from "@site/src/components/from_mui/snackbars/DirectionSnackbar"; -->
-<!-- import SnackbarsFabIntegrationSnackbarHelloworld from "@site/src/components/from_mui/snackbars/FabIntegrationSnackbar"; -->
+import SnackbarsConsecutiveSnackbarsHelloworld from "@site/src/components/from_mui/snackbars/ConsecutiveSnackbars";
+import SnackbarsCustomizedSnackbarsHelloworld from "@site/src/components/from_mui/snackbars/CustomizedSnackbars";
+import SnackbarsDirectionSnackbarHelloworld from "@site/src/components/from_mui/snackbars/DirectionSnackbar";
+import SnackbarsFabIntegrationSnackbarHelloworld from "@site/src/components/from_mui/snackbars/FabIntegrationSnackbar";
+
 <!-- import SnackbarsIntegrationNotistackHelloworld from "@site/src/components/from_mui/snackbars/IntegrationNotistack"; -->
-<!-- import SnackbarsLongTextSnackbarHelloworld from "@site/src/components/from_mui/snackbars/LongTextSnackbar"; -->
-<!-- import SnackbarsPositionedSnackbarHelloworld from "@site/src/components/from_mui/snackbars/PositionedSnackbar"; -->
-<!-- import SnackbarsSimpleSnackbarHelloworld from "@site/src/components/from_mui/snackbars/SimpleSnackbar"; -->
-<!-- import SnackbarsTransitionsSnackbarHelloworld from "@site/src/components/from_mui/snackbars/TransitionsSnackbar"; -->
+
+import SnackbarsLongTextSnackbarHelloworld from "@site/src/components/from_mui/snackbars/LongTextSnackbar";
+
+import SnackbarsPositionedSnackbarHelloworld from "@site/src/components/from_mui/snackbars/PositionedSnackbar";
+
+import SnackbarsSimpleSnackbarHelloworld from "@site/src/components/from_mui/snackbars/SimpleSnackbar";
+
+import SnackbarsTransitionsSnackbarHelloworld from "@site/src/components/from_mui/snackbars/TransitionsSnackbar";
 
 import SpeedDialBasicSpeedDialHelloworld from "@site/src/components/from_mui/speed-dial/BasicSpeedDial";
 import SpeedDialControlledOpenSpeedDialHelloworld from "@site/src/components/from_mui/speed-dial/ControlledOpenSpeedDial";
