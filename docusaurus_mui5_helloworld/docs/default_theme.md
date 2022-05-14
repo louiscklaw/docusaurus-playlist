@@ -2213,43 +2213,43 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### CustomizedSteppersHelloworld
 
-<!-- <SteppersCustomizedSteppersHelloworld /> -->
+<SteppersCustomizedSteppersHelloworld />
 
 ### DotsMobileStepperHelloworld
 
-<!-- <SteppersDotsMobileStepperHelloworld /> -->
+<SteppersDotsMobileStepperHelloworld />
 
 ### HorizontalLinearAlternativeLabelStepperHelloworld
 
-<!-- <SteppersHorizontalLinearAlternativeLabelStepperHelloworld /> -->
+<SteppersHorizontalLinearAlternativeLabelStepperHelloworld />
 
 ### HorizontalLinearStepperHelloworld
 
-<!-- <SteppersHorizontalLinearStepperHelloworld /> -->
+<SteppersHorizontalLinearStepperHelloworld />
 
 ### HorizontalNonLinearStepperHelloworld
 
-<!-- <SteppersHorizontalNonLinearStepperHelloworld /> -->
+<SteppersHorizontalNonLinearStepperHelloworld />
 
 ### HorizontalStepperWithErrorHelloworld
 
-<!-- <SteppersHorizontalStepperWithErrorHelloworld /> -->
+<SteppersHorizontalStepperWithErrorHelloworld />
 
 ### ProgressMobileStepperHelloworld
 
-<!-- <SteppersProgressMobileStepperHelloworld /> -->
+<SteppersProgressMobileStepperHelloworld />
 
 ### SwipeableTextMobileStepperHelloworld
 
-<!-- <SteppersSwipeableTextMobileStepperHelloworld /> -->
+<SteppersSwipeableTextMobileStepperHelloworld />
 
 ### TextMobileStepperHelloworld
 
-<!-- <SteppersTextMobileStepperHelloworld /> -->
+<SteppersTextMobileStepperHelloworld />
 
 ### VerticalLinearStepperHelloworld
 
-<!-- <SteppersVerticalLinearStepperHelloworld /> -->
+<SteppersVerticalLinearStepperHelloworld />
 
 ## Switches
 
