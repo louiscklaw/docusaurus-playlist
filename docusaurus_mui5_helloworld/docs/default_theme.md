@@ -270,19 +270,25 @@ import LinksButtonLinkHelloworld from "@site/src/components/from_mui/links/Butto
 import LinksLinksHelloworld from "@site/src/components/from_mui/links/Links";
 import LinksUnderlineLinkHelloworld from "@site/src/components/from_mui/links/UnderlineLink";
 
-<!-- import ListsAlignItemsListHelloworld from "@site/src/components/from_mui/lists/AlignItemsList"; -->
-<!-- import ListsBasicListHelloworld from "@site/src/components/from_mui/lists/BasicList"; -->
-<!-- import ListsCheckboxListHelloworld from "@site/src/components/from_mui/lists/CheckboxList"; -->
-<!-- import ListsCheckboxListSecondaryHelloworld from "@site/src/components/from_mui/lists/CheckboxListSecondary"; -->
-<!-- import ListsCustomizedListHelloworld from "@site/src/components/from_mui/lists/CustomizedList"; -->
-<!-- import ListsFolderListHelloworld from "@site/src/components/from_mui/lists/FolderList"; -->
-<!-- import ListsGutterlessListHelloworld from "@site/src/components/from_mui/lists/GutterlessList"; -->
-<!-- import ListsInsetListHelloworld from "@site/src/components/from_mui/lists/InsetList"; -->
-<!-- import ListsInteractiveListHelloworld from "@site/src/components/from_mui/lists/InteractiveList"; -->
-<!-- import ListsNestedListHelloworld from "@site/src/components/from_mui/lists/NestedList"; -->
-<!-- import ListsPinnedSubheaderListHelloworld from "@site/src/components/from_mui/lists/PinnedSubheaderList"; -->
-<!-- import ListsSelectedListItemHelloworld from "@site/src/components/from_mui/lists/SelectedListItem"; -->
-<!-- import ListsSwitchListSecondaryHelloworld from "@site/src/components/from_mui/lists/SwitchListSecondary"; -->
+import ListsAlignItemsListHelloworld from "@site/src/components/from_mui/lists/AlignItemsList";
+import ListsBasicListHelloworld from "@site/src/components/from_mui/lists/BasicList";
+import ListsCheckboxListHelloworld from "@site/src/components/from_mui/lists/CheckboxList";
+import ListsCheckboxListSecondaryHelloworld from "@site/src/components/from_mui/lists/CheckboxListSecondary";
+
+import ListsCustomizedListHelloworld from "@site/src/components/from_mui/lists/CustomizedList";
+import ListsFolderListHelloworld from "@site/src/components/from_mui/lists/FolderList";
+
+import ListsGutterlessListHelloworld from "@site/src/components/from_mui/lists/GutterlessList";
+
+import ListsInsetListHelloworld from "@site/src/components/from_mui/lists/InsetList";
+import ListsInteractiveListHelloworld from "@site/src/components/from_mui/lists/InteractiveList";
+import ListsNestedListHelloworld from "@site/src/components/from_mui/lists/NestedList";
+
+import ListsPinnedSubheaderListHelloworld from "@site/src/components/from_mui/lists/PinnedSubheaderList";
+import ListsSelectedListItemHelloworld from "@site/src/components/from_mui/lists/SelectedListItem";
+
+import ListsSwitchListSecondaryHelloworld from "@site/src/components/from_mui/lists/SwitchListSecondary";
+
 <!-- import ListsVirtualizedListHelloworld from "@site/src/components/from_mui/lists/VirtualizedList"; -->
 
 import MasonryBasicMasonryHelloworld from "@site/src/components/from_mui/masonry/BasicMasonry";
