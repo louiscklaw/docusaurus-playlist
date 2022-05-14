@@ -2081,27 +2081,27 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### DiscreteSliderStepsHelloworld
 
-<!-- <SliderDiscreteSliderStepsHelloworld /> -->
+<SliderDiscreteSliderStepsHelloworld />
 
 ### DiscreteSliderValuesHelloworld
 
-<!-- <SliderDiscreteSliderValuesHelloworld /> -->
+<SliderDiscreteSliderValuesHelloworld />
 
 ### InputSliderHelloworld
 
-<!-- <SliderInputSliderHelloworld /> -->
+<SliderInputSliderHelloworld />
 
 ### MinimumDistanceSliderHelloworld
 
-<!-- <SliderMinimumDistanceSliderHelloworld /> -->
+<SliderMinimumDistanceSliderHelloworld />
 
 ### MusicPlayerSliderHelloworld
 
-<!-- <SliderMusicPlayerSliderHelloworld /> -->
+<SliderMusicPlayerSliderHelloworld />
 
 ### NonLinearSliderHelloworld
 
-<!-- <SliderNonLinearSliderHelloworld /> -->
+<SliderNonLinearSliderHelloworld />
 
 ### RangeSliderHelloworld
 
