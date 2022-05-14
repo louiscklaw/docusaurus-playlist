@@ -968,53 +968,53 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### ActionAreaCardHelloworld
 
-<!-- <CardsActionAreaCardHelloworld /> -->
+<CardsActionAreaCardHelloworld />
 
 ### BasicCardHelloworld
 
-<!-- <CardsBasicCardHelloworld /> -->
+<CardsBasicCardHelloworld />
 
 ### ImgMediaCardHelloworld
 
-<!-- <CardsImgMediaCardHelloworld /> -->
+<CardsImgMediaCardHelloworld />
 
 ### MediaCardHelloworld
 
-<!-- <CardsMediaCardHelloworld /> -->
+<CardsMediaCardHelloworld />
 
 ### MediaControlCardHelloworld
 
-<!-- <CardsMediaControlCardHelloworld /> -->
+<CardsMediaControlCardHelloworld />
 
 ### MultiActionAreaCardHelloworld
 
-<!-- <CardsMultiActionAreaCardHelloworld /> -->
+<CardsMultiActionAreaCardHelloworld />
 
 ### OutlinedCardHelloworld
 
-<!-- <CardsOutlinedCardHelloworld /> -->
+<CardsOutlinedCardHelloworld />
 
 ### RecipeReviewCardHelloworld
 
-<!-- <CardsRecipeReviewCardHelloworld /> -->
+<CardsRecipeReviewCardHelloworld />
 
 ## Checkboxes
 
 ### CheckboxLabelsHelloworld
 
-<!-- <CheckboxesCheckboxLabelsHelloworld /> -->
+<CheckboxesCheckboxLabelsHelloworld />
 
 ### CheckboxesHelloworld
 
-<!-- <CheckboxesCheckboxesHelloworld /> -->
+<CheckboxesCheckboxesHelloworld />
 
 ### CheckboxesGroupHelloworld
 
-<!-- <CheckboxesCheckboxesGroupHelloworld /> -->
+<CheckboxesCheckboxesGroupHelloworld />
 
 ### ColorCheckboxesHelloworld
 
-<!-- <CheckboxesColorCheckboxesHelloworld /> -->
+<CheckboxesColorCheckboxesHelloworld />
 
 ### ControlledCheckboxHelloworld
 
@@ -1034,21 +1034,21 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### IndeterminateCheckboxHelloworld
 
-<!-- <CheckboxesIndeterminateCheckboxHelloworld /> -->
+<CheckboxesIndeterminateCheckboxHelloworld />
 
 ### SizeCheckboxesHelloworld
 
-<!-- <CheckboxesSizeCheckboxesHelloworld /> -->
+<CheckboxesSizeCheckboxesHelloworld />
 
 ## Chips
 
 ### AvatarChipsHelloworld
 
-<!-- <ChipsAvatarChipsHelloworld /> -->
+<ChipsAvatarChipsHelloworld />
 
 ### BasicChipsHelloworld
 
-<!-- <ChipsBasicChipsHelloworld /> -->
+<ChipsBasicChipsHelloworld />
 
 ### ChipsArrayHelloworld
 
