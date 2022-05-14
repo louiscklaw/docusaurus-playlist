@@ -2105,23 +2105,23 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### RangeSliderHelloworld
 
-<!-- <SliderRangeSliderHelloworld /> -->
+<SliderRangeSliderHelloworld />
 
 ### SliderSizesHelloworld
 
-<!-- <SliderSliderSizesHelloworld /> -->
+<SliderSliderSizesHelloworld />
 
 ### TrackFalseSliderHelloworld
 
-<!-- <SliderTrackFalseSliderHelloworld /> -->
+<SliderTrackFalseSliderHelloworld />
 
 ### TrackInvertedSliderHelloworld
 
-<!-- <SliderTrackInvertedSliderHelloworld /> -->
+<SliderTrackInvertedSliderHelloworld />
 
 ### VerticalAccessibleSliderHelloworld
 
-<!-- <SliderVerticalAccessibleSliderHelloworld /> -->
+<SliderVerticalAccessibleSliderHelloworld />
 
 ### VerticalSliderHelloworld
 
