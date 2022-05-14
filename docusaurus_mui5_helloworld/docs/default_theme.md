@@ -2255,31 +2255,31 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### BasicSwitchesHelloworld
 
-<!-- <SwitchesBasicSwitchesHelloworld /> -->
+<SwitchesBasicSwitchesHelloworld />
 
 ### ColorSwitchesHelloworld
 
-<!-- <SwitchesColorSwitchesHelloworld /> -->
+<SwitchesColorSwitchesHelloworld />
 
 ### ControlledSwitchesHelloworld
 
-<!-- <SwitchesControlledSwitchesHelloworld /> -->
+<SwitchesControlledSwitchesHelloworld />
 
 ### CustomizedSwitchesHelloworld
 
-<!-- <SwitchesCustomizedSwitchesHelloworld /> -->
+<SwitchesCustomizedSwitchesHelloworld />
 
 ### FormControlLabelPositionHelloworld
 
-<!-- <SwitchesFormControlLabelPositionHelloworld /> -->
+<SwitchesFormControlLabelPositionHelloworld />
 
 ### SwitchLabelsHelloworld
 
-<!-- <SwitchesSwitchLabelsHelloworld /> -->
+<SwitchesSwitchLabelsHelloworld />
 
 ### SwitchesGroupHelloworld
 
-<!-- <SwitchesSwitchesGroupHelloworld /> -->
+<SwitchesSwitchesGroupHelloworld />
 
 ### SwitchesSizeHelloworld
 
