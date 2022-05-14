@@ -2017,21 +2017,21 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### SelectSmallHelloworld
 
-<!-- <SelectsSelectSmallHelloworld /> -->
+<SelectsSelectSmallHelloworld />
 
 ### SelectVariantsHelloworld
 
-<!-- <SelectsSelectVariantsHelloworld /> -->
+<SelectsSelectVariantsHelloworld />
 
 ## Skeleton
 
 ### AnimationsHelloworld
 
-<!-- <SkeletonAnimationsHelloworld /> -->
+<SkeletonAnimationsHelloworld />
 
 ### FacebookHelloworld
 
-<!-- <SkeletonFacebookHelloworld /> -->
+<SkeletonFacebookHelloworld />
 
 ### SkeletonChildrenHelloworld
 
