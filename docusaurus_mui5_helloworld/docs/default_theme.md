@@ -1893,39 +1893,39 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### ControlledRadioButtonsGroupHelloworld
 
-<!-- <RadioButtonsControlledRadioButtonsGroupHelloworld /> -->
+<RadioButtonsControlledRadioButtonsGroupHelloworld />
 
 ### CustomizedRadiosHelloworld
 
-<!-- <RadioButtonsCustomizedRadiosHelloworld /> -->
+<RadioButtonsCustomizedRadiosHelloworld />
 
 ### ErrorRadiosHelloworld
 
-<!-- <RadioButtonsErrorRadiosHelloworld /> -->
+<RadioButtonsErrorRadiosHelloworld />
 
 ### FormControlLabelPlacementHelloworld
 
-<!-- <RadioButtonsFormControlLabelPlacementHelloworld /> -->
+<RadioButtonsFormControlLabelPlacementHelloworld />
 
 ### RadioButtonsHelloworld
 
-<!-- <RadioButtonsRadioButtonsHelloworld /> -->
+<RadioButtonsRadioButtonsHelloworld />
 
 ### RadioButtonsGroupHelloworld
 
-<!-- <RadioButtonsRadioButtonsGroupHelloworld /> -->
+<RadioButtonsRadioButtonsGroupHelloworld />
 
 ### RowRadioButtonsGroupHelloworld
 
-<!-- <RadioButtonsRowRadioButtonsGroupHelloworld /> -->
+<RadioButtonsRowRadioButtonsGroupHelloworld />
 
 ### SizeRadioButtonsHelloworld
 
-<!-- <RadioButtonsSizeRadioButtonsHelloworld /> -->
+<RadioButtonsSizeRadioButtonsHelloworld />
 
 ### UseRadioGroupHelloworld
 
-<!-- <RadioButtonsUseRadioGroupHelloworld /> -->
+<RadioButtonsUseRadioGroupHelloworld />
 
 ## Rating
 
