@@ -2057,15 +2057,15 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### ColorSliderHelloworld
 
-<!-- <SliderColorSliderHelloworld /> -->
+<SliderColorSliderHelloworld />
 
 ### ContinuousSliderHelloworld
 
-<!-- <SliderContinuousSliderHelloworld /> -->
+<SliderContinuousSliderHelloworld />
 
 ### CustomizedSliderHelloworld
 
-<!-- <SliderCustomizedSliderHelloworld /> -->
+<SliderCustomizedSliderHelloworld />
 
 ### DiscreteSliderHelloworld
 
