@@ -1961,19 +1961,19 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### BasicSelectHelloworld
 
-<!-- <SelectsBasicSelectHelloworld /> -->
+<SelectsBasicSelectHelloworld />
 
 ### ControlledOpenSelectHelloworld
 
-<!-- <SelectsControlledOpenSelectHelloworld /> -->
+<SelectsControlledOpenSelectHelloworld />
 
 ### CustomizedSelectsHelloworld
 
-<!-- <SelectsCustomizedSelectsHelloworld /> -->
+<SelectsCustomizedSelectsHelloworld />
 
 ### DialogSelectHelloworld
 
-<!-- <SelectsDialogSelectHelloworld /> -->
+<SelectsDialogSelectHelloworld />
 
 ### GroupedSelectHelloworld
 
