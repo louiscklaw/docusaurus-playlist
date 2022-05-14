@@ -1867,29 +1867,29 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### LinearBufferHelloworld
 
-<!-- <ProgressLinearBufferHelloworld /> -->
+<ProgressLinearBufferHelloworld />
 
 ### LinearColorHelloworld
 
-<!-- <ProgressLinearColorHelloworld /> -->
+<ProgressLinearColorHelloworld />
 
 ### LinearDeterminateHelloworld
 
-<!-- <ProgressLinearDeterminateHelloworld /> -->
+<ProgressLinearDeterminateHelloworld />
 
 ### LinearIndeterminateHelloworld
 
-<!-- <ProgressLinearIndeterminateHelloworld /> -->
+<ProgressLinearIndeterminateHelloworld />
 
 ### LinearWithValueLabelHelloworld
 
-<!-- <ProgressLinearWithValueLabelHelloworld /> -->
+<ProgressLinearWithValueLabelHelloworld />
 
 ## RadioButtons
 
 ### ColorRadioButtonsHelloworld
 
-<!-- <RadioButtonsColorRadioButtonsHelloworld /> -->
+<RadioButtonsColorRadioButtonsHelloworld />
 
 ### ControlledRadioButtonsGroupHelloworld
 
