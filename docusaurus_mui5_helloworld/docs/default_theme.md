@@ -2125,25 +2125,25 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### VerticalSliderHelloworld
 
-<!-- <SliderVerticalSliderHelloworld /> -->
+<SliderVerticalSliderHelloworld />
 
 ## Snackbars
 
 ### ConsecutiveSnackbarsHelloworld
 
-<!-- <SnackbarsConsecutiveSnackbarsHelloworld /> -->
+<SnackbarsConsecutiveSnackbarsHelloworld />
 
 ### CustomizedSnackbarsHelloworld
 
-<!-- <SnackbarsCustomizedSnackbarsHelloworld /> -->
+<SnackbarsCustomizedSnackbarsHelloworld />
 
 ### DirectionSnackbarHelloworld
 
-<!-- <SnackbarsDirectionSnackbarHelloworld /> -->
+<SnackbarsDirectionSnackbarHelloworld />
 
 ### FabIntegrationSnackbarHelloworld
 
-<!-- <SnackbarsFabIntegrationSnackbarHelloworld /> -->
+<SnackbarsFabIntegrationSnackbarHelloworld />
 
 ### IntegrationNotistackHelloworld
 
