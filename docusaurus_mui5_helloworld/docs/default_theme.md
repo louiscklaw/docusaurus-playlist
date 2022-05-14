@@ -2195,19 +2195,19 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### DirectionStackHelloworld
 
-<!-- <StackDirectionStackHelloworld /> -->
+<StackDirectionStackHelloworld />
 
 ### DividerStackHelloworld
 
-<!-- <StackDividerStackHelloworld /> -->
+<StackDividerStackHelloworld />
 
 ### InteractiveStackHelloworld
 
-<!-- <StackInteractiveStackHelloworld /> -->
+<StackInteractiveStackHelloworld />
 
 ### ResponsiveStackHelloworld
 
-<!-- <StackResponsiveStackHelloworld /> -->
+<StackResponsiveStackHelloworld />
 
 ## Steppers
 
