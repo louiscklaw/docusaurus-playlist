@@ -76,14 +76,22 @@ import BackdropSimpleBackdropHelloworld from "@site/src/components/from_mui/back
 import BadgesAccessibleBadgesHelloworld from "@site/src/components/from_mui/badges/AccessibleBadges";
 
 <!-- import BadgesBadgeAlignmentHelloworld from "@site/src/components/from_mui/badges/BadgeAlignment"; -->
-<!-- import BadgesBadgeMaxHelloworld from "@site/src/components/from_mui/badges/BadgeMax"; -->
-<!-- import BadgesBadgeOverlapHelloworld from "@site/src/components/from_mui/badges/BadgeOverlap"; -->
-<!-- import BadgesBadgeVisibilityHelloworld from "@site/src/components/from_mui/badges/BadgeVisibility"; -->
-<!-- import BadgesColorBadgeHelloworld from "@site/src/components/from_mui/badges/ColorBadge"; -->
-<!-- import BadgesCustomizedBadgesHelloworld from "@site/src/components/from_mui/badges/CustomizedBadges"; -->
-<!-- import BadgesDotBadgeHelloworld from "@site/src/components/from_mui/badges/DotBadge"; -->
-<!-- import BadgesShowZeroBadgeHelloworld from "@site/src/components/from_mui/badges/ShowZeroBadge"; -->
-<!-- import BadgesSimpleBadgeHelloworld from "@site/src/components/from_mui/badges/SimpleBadge";  -->
+
+import BadgesBadgeMaxHelloworld from "@site/src/components/from_mui/badges/BadgeMax";
+
+import BadgesBadgeOverlapHelloworld from "@site/src/components/from_mui/badges/BadgeOverlap";
+
+import BadgesBadgeVisibilityHelloworld from "@site/src/components/from_mui/badges/BadgeVisibility";
+
+import BadgesColorBadgeHelloworld from "@site/src/components/from_mui/badges/ColorBadge";
+
+import BadgesCustomizedBadgesHelloworld from "@site/src/components/from_mui/badges/CustomizedBadges";
+
+import BadgesDotBadgeHelloworld from "@site/src/components/from_mui/badges/DotBadge";
+
+import BadgesShowZeroBadgeHelloworld from "@site/src/components/from_mui/badges/ShowZeroBadge";
+
+import BadgesSimpleBadgeHelloworld from "@site/src/components/from_mui/badges/SimpleBadge";
 
 import BottomNavigationFixedBottomNavigationHelloworld from "@site/src/components/from_mui/bottom-navigation/FixedBottomNavigation";
 import BottomNavigationLabelBottomNavigationHelloworld from "@site/src/components/from_mui/bottom-navigation/LabelBottomNavigation";
