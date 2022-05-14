@@ -2503,15 +2503,15 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### EmptyTextareaHelloworld
 
-<!-- <TextareaAutosizeEmptyTextareaHelloworld /> -->
+<TextareaAutosizeEmptyTextareaHelloworld />
 
 ### MaxHeightTextareaHelloworld
 
-<!-- <TextareaAutosizeMaxHeightTextareaHelloworld /> -->
+<TextareaAutosizeMaxHeightTextareaHelloworld />
 
 ### MinHeightTextareaHelloworld
 
-<!-- <TextareaAutosizeMinHeightTextareaHelloworld /> -->
+<TextareaAutosizeMinHeightTextareaHelloworld />
 
 ## Timeline
 
