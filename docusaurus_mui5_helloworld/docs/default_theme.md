@@ -1977,43 +1977,43 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### GroupedSelectHelloworld
 
-<!-- <SelectsGroupedSelectHelloworld /> -->
+<SelectsGroupedSelectHelloworld />
 
 ### MultipleSelectHelloworld
 
-<!-- <SelectsMultipleSelectHelloworld /> -->
+<SelectsMultipleSelectHelloworld />
 
 ### MultipleSelectCheckmarksHelloworld
 
-<!-- <SelectsMultipleSelectCheckmarksHelloworld /> -->
+<SelectsMultipleSelectCheckmarksHelloworld />
 
 ### MultipleSelectChipHelloworld
 
-<!-- <SelectsMultipleSelectChipHelloworld /> -->
+<SelectsMultipleSelectChipHelloworld />
 
 ### MultipleSelectNativeHelloworld
 
-<!-- <SelectsMultipleSelectNativeHelloworld /> -->
+<SelectsMultipleSelectNativeHelloworld />
 
 ### MultipleSelectPlaceholderHelloworld
 
-<!-- <SelectsMultipleSelectPlaceholderHelloworld /> -->
+<SelectsMultipleSelectPlaceholderHelloworld />
 
 ### NativeSelectHelloworld
 
-<!-- <SelectsNativeSelectHelloworld /> -->
+<SelectsNativeSelectHelloworld />
 
 ### SelectAutoWidthHelloworld
 
-<!-- <SelectsSelectAutoWidthHelloworld /> -->
+<SelectsSelectAutoWidthHelloworld />
 
 ### SelectLabelsHelloworld
 
-<!-- <SelectsSelectLabelsHelloworld /> -->
+<SelectsSelectLabelsHelloworld />
 
 ### SelectOtherPropsHelloworld
 
-<!-- <SelectsSelectOtherPropsHelloworld /> -->
+<SelectsSelectOtherPropsHelloworld />
 
 ### SelectSmallHelloworld
 
