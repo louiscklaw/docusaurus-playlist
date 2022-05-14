@@ -446,16 +446,20 @@ import SpeedDialSpeedDialTooltipOpenHelloworld from "@site/src/components/from_m
 <!-- import StackInteractiveStackHelloworld from "@site/src/components/from_mui/stack/InteractiveStack"; -->
 <!-- import StackResponsiveStackHelloworld from "@site/src/components/from_mui/stack/ResponsiveStack"; -->
 
-<!-- import SteppersCustomizedSteppersHelloworld from "@site/src/components/from_mui/steppers/CustomizedSteppers"; -->
-<!-- import SteppersDotsMobileStepperHelloworld from "@site/src/components/from_mui/steppers/DotsMobileStepper"; -->
-<!-- import SteppersHorizontalLinearAlternativeLabelStepperHelloworld from "@site/src/components/from_mui/steppers/HorizontalLinearAlternativeLabelStepper"; -->
-<!-- import SteppersHorizontalLinearStepperHelloworld from "@site/src/components/from_mui/steppers/HorizontalLinearStepper"; -->
-<!-- import SteppersHorizontalNonLinearStepperHelloworld from "@site/src/components/from_mui/steppers/HorizontalNonLinearStepper"; -->
-<!-- import SteppersHorizontalStepperWithErrorHelloworld from "@site/src/components/from_mui/steppers/HorizontalStepperWithError"; -->
-<!-- import SteppersProgressMobileStepperHelloworld from "@site/src/components/from_mui/steppers/ProgressMobileStepper"; -->
+import SteppersCustomizedSteppersHelloworld from "@site/src/components/from_mui/steppers/CustomizedSteppers";
+import SteppersDotsMobileStepperHelloworld from "@site/src/components/from_mui/steppers/DotsMobileStepper";
+import SteppersHorizontalLinearAlternativeLabelStepperHelloworld from "@site/src/components/from_mui/steppers/HorizontalLinearAlternativeLabelStepper";
+import SteppersHorizontalLinearStepperHelloworld from "@site/src/components/from_mui/steppers/HorizontalLinearStepper";
+import SteppersHorizontalNonLinearStepperHelloworld from "@site/src/components/from_mui/steppers/HorizontalNonLinearStepper";
+
+import SteppersHorizontalStepperWithErrorHelloworld from "@site/src/components/from_mui/steppers/HorizontalStepperWithError";
+import SteppersProgressMobileStepperHelloworld from "@site/src/components/from_mui/steppers/ProgressMobileStepper";
+
 <!-- import SteppersSwipeableTextMobileStepperHelloworld from "@site/src/components/from_mui/steppers/SwipeableTextMobileStepper"; -->
-<!-- import SteppersTextMobileStepperHelloworld from "@site/src/components/from_mui/steppers/TextMobileStepper"; -->
-<!-- import SteppersVerticalLinearStepperHelloworld from "@site/src/components/from_mui/steppers/VerticalLinearStepper"; -->
+
+import SteppersTextMobileStepperHelloworld from "@site/src/components/from_mui/steppers/TextMobileStepper";
+
+import SteppersVerticalLinearStepperHelloworld from "@site/src/components/from_mui/steppers/VerticalLinearStepper";
 
 import SwitchesBasicSwitchesHelloworld from "@site/src/components/from_mui/switches/BasicSwitches";
 import SwitchesColorSwitchesHelloworld from "@site/src/components/from_mui/switches/ColorSwitches";
