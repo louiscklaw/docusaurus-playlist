@@ -1829,41 +1829,41 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### SimplePortalHelloworld
 
-<!-- <PortalSimplePortalHelloworld /> -->
+<PortalSimplePortalHelloworld />
 
 ## Progress
 
 ### CircularColorHelloworld
 
-<!-- <ProgressCircularColorHelloworld /> -->
+<ProgressCircularColorHelloworld />
 
 ### CircularDeterminateHelloworld
 
-<!-- <ProgressCircularDeterminateHelloworld /> -->
+<ProgressCircularDeterminateHelloworld />
 
 ### CircularIndeterminateHelloworld
 
-<!-- <ProgressCircularIndeterminateHelloworld /> -->
+<ProgressCircularIndeterminateHelloworld />
 
 ### CircularIntegrationHelloworld
 
-<!-- <ProgressCircularIntegrationHelloworld /> -->
+<ProgressCircularIntegrationHelloworld />
 
 ### CircularUnderLoadHelloworld
 
-<!-- <ProgressCircularUnderLoadHelloworld /> -->
+<ProgressCircularUnderLoadHelloworld />
 
 ### CircularWithValueLabelHelloworld
 
-<!-- <ProgressCircularWithValueLabelHelloworld /> -->
+<ProgressCircularWithValueLabelHelloworld />
 
 ### CustomizedProgressBarsHelloworld
 
-<!-- <ProgressCustomizedProgressBarsHelloworld /> -->
+<ProgressCustomizedProgressBarsHelloworld />
 
 ### DelayingAppearanceHelloworld
 
-<!-- <ProgressDelayingAppearanceHelloworld /> -->
+<ProgressDelayingAppearanceHelloworld />
 
 ### LinearBufferHelloworld
 
