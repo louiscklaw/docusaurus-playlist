@@ -2297,43 +2297,43 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### CollapsibleTableHelloworld
 
-<!-- <TablesCollapsibleTableHelloworld /> -->
+<TablesCollapsibleTableHelloworld />
 
 ### ColumnGroupingTableHelloworld
 
-<!-- <TablesColumnGroupingTableHelloworld /> -->
+<TablesColumnGroupingTableHelloworld />
 
 ### CustomPaginationActionsTableHelloworld
 
-<!-- <TablesCustomPaginationActionsTableHelloworld /> -->
+<TablesCustomPaginationActionsTableHelloworld />
 
 ### CustomizedTablesHelloworld
 
-<!-- <TablesCustomizedTablesHelloworld /> -->
+<TablesCustomizedTablesHelloworld />
 
 ### DataTableHelloworld
 
-<!-- <TablesDataTableHelloworld /> -->
+<TablesDataTableHelloworld />
 
 ### DenseTableHelloworld
 
-<!-- <TablesDenseTableHelloworld /> -->
+<TablesDenseTableHelloworld />
 
 ### EnhancedTableHelloworld
 
-<!-- <TablesEnhancedTableHelloworld /> -->
+<TablesEnhancedTableHelloworld />
 
 ### ReactVirtualizedTableHelloworld
 
-<!-- <TablesReactVirtualizedTableHelloworld /> -->
+<TablesReactVirtualizedTableHelloworld />
 
 ### SpanningTableHelloworld
 
-<!-- <TablesSpanningTableHelloworld /> -->
+<TablesSpanningTableHelloworld />
 
 ### StickyHeadTableHelloworld
 
-<!-- <TablesStickyHeadTableHelloworld /> -->
+<TablesStickyHeadTableHelloworld />
 
 ## Tabs
 
@@ -2343,75 +2343,75 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### AccessibleTabs2Helloworld
 
-<!-- <TabsAccessibleTabs2Helloworld /> -->
+<TabsAccessibleTabs2Helloworld />
 
 ### BasicTabsHelloworld
 
-<!-- <TabsBasicTabsHelloworld /> -->
+<TabsBasicTabsHelloworld />
 
 ### CenteredTabsHelloworld
 
-<!-- <TabsCenteredTabsHelloworld /> -->
+<TabsCenteredTabsHelloworld />
 
 ### ColorTabsHelloworld
 
-<!-- <TabsColorTabsHelloworld /> -->
+<TabsColorTabsHelloworld />
 
 ### CustomizedTabsHelloworld
 
-<!-- <TabsCustomizedTabsHelloworld /> -->
+<TabsCustomizedTabsHelloworld />
 
 ### DisabledTabsHelloworld
 
-<!-- <TabsDisabledTabsHelloworld /> -->
+<TabsDisabledTabsHelloworld />
 
 ### FullWidthTabsHelloworld
 
-<!-- <TabsFullWidthTabsHelloworld /> -->
+<TabsFullWidthTabsHelloworld />
 
 ### IconLabelTabsHelloworld
 
-<!-- <TabsIconLabelTabsHelloworld /> -->
+<TabsIconLabelTabsHelloworld />
 
 ### IconPositionTabsHelloworld
 
-<!-- <TabsIconPositionTabsHelloworld /> -->
+<TabsIconPositionTabsHelloworld />
 
 ### IconTabsHelloworld
 
-<!-- <TabsIconTabsHelloworld /> -->
+<TabsIconTabsHelloworld />
 
 ### LabTabsHelloworld
 
-<!-- <TabsLabTabsHelloworld /> -->
+<TabsLabTabsHelloworld />
 
 ### NavTabsHelloworld
 
-<!-- <TabsNavTabsHelloworld /> -->
+<TabsNavTabsHelloworld />
 
 ### ScrollableTabsButtonAutoHelloworld
 
-<!-- <TabsScrollableTabsButtonAutoHelloworld /> -->
+<TabsScrollableTabsButtonAutoHelloworld />
 
 ### ScrollableTabsButtonForceHelloworld
 
-<!-- <TabsScrollableTabsButtonForceHelloworld /> -->
+<TabsScrollableTabsButtonForceHelloworld />
 
 ### ScrollableTabsButtonPreventHelloworld
 
-<!-- <TabsScrollableTabsButtonPreventHelloworld /> -->
+<TabsScrollableTabsButtonPreventHelloworld />
 
 ### ScrollableTabsButtonVisibleHelloworld
 
-<!-- <TabsScrollableTabsButtonVisibleHelloworld /> -->
+<TabsScrollableTabsButtonVisibleHelloworld />
 
 ### TabsWrappedLabelHelloworld
 
-<!-- <TabsTabsWrappedLabelHelloworld /> -->
+<TabsTabsWrappedLabelHelloworld />
 
 ### VerticalTabsHelloworld
 
-<!-- <TabsVerticalTabsHelloworld /> -->
+<TabsVerticalTabsHelloworld />
 
 ## TextFields
 
