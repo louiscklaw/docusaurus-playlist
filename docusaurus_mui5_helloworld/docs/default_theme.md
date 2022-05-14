@@ -1319,13 +1319,19 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### ClippedDrawerHelloworld
 
+`not working`
+
 <!-- <DrawersClippedDrawerHelloworld /> -->
 
 ### MiniDrawerHelloworld
 
+`not working`
+
 <!-- <DrawersMiniDrawerHelloworld /> -->
 
 ### PermanentDrawerLeftHelloworld
+
+`not working`
 
 <!-- <DrawersPermanentDrawerLeftHelloworld /> -->
 
@@ -1347,15 +1353,15 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### SwipeableEdgeDrawerHelloworld
 
-<!-- <DrawersSwipeableEdgeDrawerHelloworld /> -->
+<DrawersSwipeableEdgeDrawerHelloworld />
 
 ### SwipeableTemporaryDrawerHelloworld
 
-<!-- <DrawersSwipeableTemporaryDrawerHelloworld /> -->
+<DrawersSwipeableTemporaryDrawerHelloworld />
 
 ### TemporaryDrawerHelloworld
 
-<!-- <DrawersTemporaryDrawerHelloworld /> -->
+<DrawersTemporaryDrawerHelloworld />
 
 ## FloatingActionButton
 
