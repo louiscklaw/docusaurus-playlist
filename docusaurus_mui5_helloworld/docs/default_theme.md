@@ -42,8 +42,12 @@ import AutocompleteFreeSoloCreateOptionDialogHelloworld from "@site/src/componen
 
 import AutocompleteGitHubLabelHelloworld from "@site/src/components/from_mui/autocomplete/GitHubLabel";
 
+<!-- Module not found: Error: Can't resolve 'autosuggest-highlight/parse -->
 <!-- import AutocompleteGoogleMapsHelloworld from "@site/src/components/from_mui/autocomplete/GoogleMaps"; -->
-<!-- import AutocompleteGroupedHelloworld from "@site/src/components/from_mui/autocomplete/Grouped"; -->
+
+import AutocompleteGroupedHelloworld from "@site/src/components/from_mui/autocomplete/Grouped";
+
+<!-- Can't resolve 'autosuggest-highlight/match'  -->
 <!-- import AutocompleteHighlightsHelloworld from "@site/src/components/from_mui/autocomplete/Highlights"; -->
 
 import AutocompleteLimitTagsHelloworld from "@site/src/components/from_mui/autocomplete/LimitTags";
@@ -52,7 +56,9 @@ import AutocompletePlaygroundHelloworld from "@site/src/components/from_mui/auto
 import AutocompleteSizesHelloworld from "@site/src/components/from_mui/autocomplete/Sizes";
 import AutocompleteTagsHelloworld from "@site/src/components/from_mui/autocomplete/Tags";
 
-<!-- import AutocompleteUseAutocompleteHelloworld from "@site/src/components/from_mui/autocomplete/UseAutocomplete"; -->
+import AutocompleteUseAutocompleteHelloworld from "@site/src/components/from_mui/autocomplete/UseAutocomplete";
+
+<!-- Can't resolve 'react-window' -->
 <!-- import AutocompleteVirtualizeHelloworld from "@site/src/components/from_mui/autocomplete/Virtualize";  -->
 
 import AvatarsBackgroundLetterAvatarsHelloworld from "@site/src/components/from_mui/avatars/BackgroundLetterAvatars";
@@ -67,16 +73,17 @@ import AvatarsTotalAvatarsHelloworld from "@site/src/components/from_mui/avatars
 import AvatarsVariantAvatarsHelloworld from "@site/src/components/from_mui/avatars/VariantAvatars";
 import BackdropSimpleBackdropHelloworld from "@site/src/components/from_mui/backdrop/SimpleBackdrop";
 
-<!-- import BadgesAccessibleBadgesHelloworld from "@site/src/components/from_mui/badges/AccessibleBadges";
-import BadgesBadgeAlignmentHelloworld from "@site/src/components/from_mui/badges/BadgeAlignment";
-import BadgesBadgeMaxHelloworld from "@site/src/components/from_mui/badges/BadgeMax";
-import BadgesBadgeOverlapHelloworld from "@site/src/components/from_mui/badges/BadgeOverlap";
-import BadgesBadgeVisibilityHelloworld from "@site/src/components/from_mui/badges/BadgeVisibility";
-import BadgesColorBadgeHelloworld from "@site/src/components/from_mui/badges/ColorBadge";
-import BadgesCustomizedBadgesHelloworld from "@site/src/components/from_mui/badges/CustomizedBadges";
-import BadgesDotBadgeHelloworld from "@site/src/components/from_mui/badges/DotBadge";
-import BadgesShowZeroBadgeHelloworld from "@site/src/components/from_mui/badges/ShowZeroBadge";
-import BadgesSimpleBadgeHelloworld from "@site/src/components/from_mui/badges/SimpleBadge"; -->
+import BadgesAccessibleBadgesHelloworld from "@site/src/components/from_mui/badges/AccessibleBadges";
+
+<!-- import BadgesBadgeAlignmentHelloworld from "@site/src/components/from_mui/badges/BadgeAlignment"; -->
+<!-- import BadgesBadgeMaxHelloworld from "@site/src/components/from_mui/badges/BadgeMax"; -->
+<!-- import BadgesBadgeOverlapHelloworld from "@site/src/components/from_mui/badges/BadgeOverlap"; -->
+<!-- import BadgesBadgeVisibilityHelloworld from "@site/src/components/from_mui/badges/BadgeVisibility"; -->
+<!-- import BadgesColorBadgeHelloworld from "@site/src/components/from_mui/badges/ColorBadge"; -->
+<!-- import BadgesCustomizedBadgesHelloworld from "@site/src/components/from_mui/badges/CustomizedBadges"; -->
+<!-- import BadgesDotBadgeHelloworld from "@site/src/components/from_mui/badges/DotBadge"; -->
+<!-- import BadgesShowZeroBadgeHelloworld from "@site/src/components/from_mui/badges/ShowZeroBadge"; -->
+<!-- import BadgesSimpleBadgeHelloworld from "@site/src/components/from_mui/badges/SimpleBadge";  -->
 
 import BottomNavigationFixedBottomNavigationHelloworld from "@site/src/components/from_mui/bottom-navigation/FixedBottomNavigation";
 import BottomNavigationLabelBottomNavigationHelloworld from "@site/src/components/from_mui/bottom-navigation/LabelBottomNavigation";
