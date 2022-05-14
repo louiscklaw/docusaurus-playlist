@@ -2679,39 +2679,39 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### BarTreeViewHelloworld
 
-<!-- <TreeViewBarTreeViewHelloworld /> -->
+<TreeViewBarTreeViewHelloworld />
 
 ### ControlledTreeViewHelloworld
 
-<!-- <TreeViewControlledTreeViewHelloworld /> -->
+<TreeViewControlledTreeViewHelloworld />
 
 ### CustomizedTreeViewHelloworld
 
-<!-- <TreeViewCustomizedTreeViewHelloworld /> -->
+<TreeViewCustomizedTreeViewHelloworld />
 
 ### DisabledTreeItemsHelloworld
 
-<!-- <TreeViewDisabledTreeItemsHelloworld /> -->
+<TreeViewDisabledTreeItemsHelloworld />
 
 ### FileSystemNavigatorHelloworld
 
-<!-- <TreeViewFileSystemNavigatorHelloworld /> -->
+<TreeViewFileSystemNavigatorHelloworld />
 
 ### GmailTreeViewHelloworld
 
-<!-- <TreeViewGmailTreeViewHelloworld /> -->
+<TreeViewGmailTreeViewHelloworld />
 
 ### IconExpansionTreeViewHelloworld
 
-<!-- <TreeViewIconExpansionTreeViewHelloworld /> -->
+<TreeViewIconExpansionTreeViewHelloworld />
 
 ### MultiSelectTreeViewHelloworld
 
-<!-- <TreeViewMultiSelectTreeViewHelloworld /> -->
+<TreeViewMultiSelectTreeViewHelloworld />
 
 ### RichObjectTreeViewHelloworld
 
-<!-- <TreeViewRichObjectTreeViewHelloworld /> -->
+<TreeViewRichObjectTreeViewHelloworld />
 
 ## Typography
 
@@ -2727,20 +2727,20 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### JavaScriptMediaHelloworld
 
-<!-- <UseMediaQueryJavaScriptMediaHelloworld /> -->
+<UseMediaQueryJavaScriptMediaHelloworld />
 
 ### ServerSideHelloworld
 
-<!-- <UseMediaQueryServerSideHelloworld /> -->
+<UseMediaQueryServerSideHelloworld />
 
 ### SimpleMediaQueryHelloworld
 
-<!-- <UseMediaQuerySimpleMediaQueryHelloworld /> -->
+<UseMediaQuerySimpleMediaQueryHelloworld />
 
 ### ThemeHelperHelloworld
 
-<!-- <UseMediaQueryThemeHelperHelloworld /> -->
+<UseMediaQueryThemeHelperHelloworld />
 
 ### UseWidthHelloworld
 
-<!-- <UseMediaQueryUseWidthHelloworld /> -->
+<UseMediaQueryUseWidthHelloworld />
