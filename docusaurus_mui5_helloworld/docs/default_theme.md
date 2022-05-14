@@ -123,18 +123,24 @@ import CheckboxesIconCheckboxesHelloworld from "@site/src/components/from_mui/ch
 import CheckboxesIndeterminateCheckboxHelloworld from "@site/src/components/from_mui/checkboxes/IndeterminateCheckbox";
 import CheckboxesSizeCheckboxesHelloworld from "@site/src/components/from_mui/checkboxes/SizeCheckboxes";
 
-<!-- import ChipsAvatarChipsHelloworld from "@site/src/components/from_mui/chips/AvatarChips"; -->
-<!-- import ChipsBasicChipsHelloworld from "@site/src/components/from_mui/chips/BasicChips"; -->
-<!-- import ChipsChipsArrayHelloworld from "@site/src/components/from_mui/chips/ChipsArray"; -->
+import ChipsAvatarChipsHelloworld from "@site/src/components/from_mui/chips/AvatarChips";
+
+import ChipsBasicChipsHelloworld from "@site/src/components/from_mui/chips/BasicChips";
+import ChipsChipsArrayHelloworld from "@site/src/components/from_mui/chips/ChipsArray";
+
+<!-- Module not found: Error: Can't resolve 'docs/src/modules/components/HighlightedCode' in 'D:\_workspace\docusaurus-playlist\docusaurus_mui5_helloworld\src\components\from_mui\chips'
+ -->
 <!-- import ChipsChipsPlaygroundHelloworld from "@site/src/components/from_mui/chips/ChipsPlayground"; -->
-<!-- import ChipsClickableAndDeletableChipsHelloworld from "@site/src/components/from_mui/chips/ClickableAndDeletableChips"; -->
-<!-- import ChipsClickableChipsHelloworld from "@site/src/components/from_mui/chips/ClickableChips"; -->
-<!-- import ChipsClickableLinkChipsHelloworld from "@site/src/components/from_mui/chips/ClickableLinkChips"; -->
-<!-- import ChipsColorChipsHelloworld from "@site/src/components/from_mui/chips/ColorChips"; -->
-<!-- import ChipsCustomDeleteIconChipsHelloworld from "@site/src/components/from_mui/chips/CustomDeleteIconChips"; -->
-<!-- import ChipsDeletableChipsHelloworld from "@site/src/components/from_mui/chips/DeletableChips"; -->
-<!-- import ChipsIconChipsHelloworld from "@site/src/components/from_mui/chips/IconChips"; -->
-<!-- import ChipsSizesChipsHelloworld from "@site/src/components/from_mui/chips/SizesChips"; -->
+
+import ChipsClickableAndDeletableChipsHelloworld from "@site/src/components/from_mui/chips/ClickableAndDeletableChips";
+import ChipsClickableChipsHelloworld from "@site/src/components/from_mui/chips/ClickableChips";
+import ChipsClickableLinkChipsHelloworld from "@site/src/components/from_mui/chips/ClickableLinkChips";
+import ChipsColorChipsHelloworld from "@site/src/components/from_mui/chips/ColorChips";
+
+import ChipsCustomDeleteIconChipsHelloworld from "@site/src/components/from_mui/chips/CustomDeleteIconChips";
+import ChipsDeletableChipsHelloworld from "@site/src/components/from_mui/chips/DeletableChips";
+import ChipsIconChipsHelloworld from "@site/src/components/from_mui/chips/IconChips";
+import ChipsSizesChipsHelloworld from "@site/src/components/from_mui/chips/SizesChips";
 
 import ClickAwayListenerClickAwayHelloworld from "@site/src/components/from_mui/click-away-listener/ClickAway";
 import ClickAwayListenerLeadingClickAwayHelloworld from "@site/src/components/from_mui/click-away-listener/LeadingClickAway";
@@ -1052,57 +1058,59 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### ChipsArrayHelloworld
 
-<!-- <ChipsChipsArrayHelloworld /> -->
+<ChipsChipsArrayHelloworld />
 
 ### ChipsPlaygroundHelloworld
+
+`Can't resolve 'docs/src/modules/components/HighlightedCode'`
 
 <!-- <ChipsChipsPlaygroundHelloworld /> -->
 
 ### ClickableAndDeletableChipsHelloworld
 
-<!-- <ChipsClickableAndDeletableChipsHelloworld /> -->
+<ChipsClickableAndDeletableChipsHelloworld />
 
 ### ClickableChipsHelloworld
 
-<!-- <ChipsClickableChipsHelloworld /> -->
+<ChipsClickableChipsHelloworld />
 
 ### ClickableLinkChipsHelloworld
 
-<!-- <ChipsClickableLinkChipsHelloworld /> -->
+<ChipsClickableLinkChipsHelloworld />
 
 ### ColorChipsHelloworld
 
-<!-- <ChipsColorChipsHelloworld /> -->
+<ChipsColorChipsHelloworld />
 
 ### CustomDeleteIconChipsHelloworld
 
-<!-- <ChipsCustomDeleteIconChipsHelloworld /> -->
+<ChipsCustomDeleteIconChipsHelloworld />
 
 ### DeletableChipsHelloworld
 
-<!-- <ChipsDeletableChipsHelloworld /> -->
+<ChipsDeletableChipsHelloworld />
 
 ### IconChipsHelloworld
 
-<!-- <ChipsIconChipsHelloworld /> -->
+<ChipsIconChipsHelloworld />
 
 ### SizesChipsHelloworld
 
-<!-- <ChipsSizesChipsHelloworld /> -->
+<ChipsSizesChipsHelloworld />
 
 ## ClickAwayListener
 
 ### ClickAwayHelloworld
 
-<!-- <ClickAwayListenerClickAwayHelloworld /> -->
+<ClickAwayListenerClickAwayHelloworld />
 
 ### LeadingClickAwayHelloworld
 
-<!-- <ClickAwayListenerLeadingClickAwayHelloworld /> -->
+<ClickAwayListenerLeadingClickAwayHelloworld />
 
 ### PortalClickAwayHelloworld
 
-<!-- <ClickAwayListenerPortalClickAwayHelloworld /> -->
+<ClickAwayListenerPortalClickAwayHelloworld />
 
 ## Container
 
