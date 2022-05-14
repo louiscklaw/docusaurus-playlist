@@ -2069,15 +2069,15 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### DiscreteSliderHelloworld
 
-<!-- <SliderDiscreteSliderHelloworld /> -->
+<SliderDiscreteSliderHelloworld />
 
 ### DiscreteSliderLabelHelloworld
 
-<!-- <SliderDiscreteSliderLabelHelloworld /> -->
+<SliderDiscreteSliderLabelHelloworld />
 
 ### DiscreteSliderMarksHelloworld
 
-<!-- <SliderDiscreteSliderMarksHelloworld /> -->
+<SliderDiscreteSliderMarksHelloworld />
 
 ### DiscreteSliderStepsHelloworld
 
