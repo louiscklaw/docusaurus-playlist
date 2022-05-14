@@ -303,28 +303,34 @@ import MasonrySSRMasonryHelloworld from "@site/src/components/from_mui/masonry/S
 <!-- import MaterialIconsSearchIconsHelloworld from "@site/src/components/from_mui/material-icons/SearchIcons"; -->
 <!-- import MaterialIconssynonymsHelloworld from "@site/src/components/from_mui/material-icons/synonyms"; -->
 
-<!-- import MenusAccountMenuHelloworld from "@site/src/components/from_mui/menus/AccountMenu"; -->
-<!-- import MenusBasicMenuHelloworld from "@site/src/components/from_mui/menus/BasicMenu"; -->
-<!-- import MenusContextMenuHelloworld from "@site/src/components/from_mui/menus/ContextMenu"; -->
-<!-- import MenusCustomizedMenusHelloworld from "@site/src/components/from_mui/menus/CustomizedMenus"; -->
-<!-- import MenusDenseMenuHelloworld from "@site/src/components/from_mui/menus/DenseMenu"; -->
-<!-- import MenusFadeMenuHelloworld from "@site/src/components/from_mui/menus/FadeMenu"; -->
-<!-- import MenusIconMenuHelloworld from "@site/src/components/from_mui/menus/IconMenu"; -->
-<!-- import MenusLongMenuHelloworld from "@site/src/components/from_mui/menus/LongMenu"; -->
-<!-- import MenusMenuListCompositionHelloworld from "@site/src/components/from_mui/menus/MenuListComposition"; -->
+import MenusAccountMenuHelloworld from "@site/src/components/from_mui/menus/AccountMenu";
+import MenusBasicMenuHelloworld from "@site/src/components/from_mui/menus/BasicMenu";
+import MenusContextMenuHelloworld from "@site/src/components/from_mui/menus/ContextMenu";
+
+import MenusCustomizedMenusHelloworld from "@site/src/components/from_mui/menus/CustomizedMenus";
+import MenusDenseMenuHelloworld from "@site/src/components/from_mui/menus/DenseMenu";
+import MenusFadeMenuHelloworld from "@site/src/components/from_mui/menus/FadeMenu";
+
+import MenusIconMenuHelloworld from "@site/src/components/from_mui/menus/IconMenu";
+import MenusLongMenuHelloworld from "@site/src/components/from_mui/menus/LongMenu";
+import MenusMenuListCompositionHelloworld from "@site/src/components/from_mui/menus/MenuListComposition";
+
 <!-- import MenusMenuPopupStateHelloworld from "@site/src/components/from_mui/menus/MenuPopupState"; -->
-<!-- import MenusPositionedMenuHelloworld from "@site/src/components/from_mui/menus/PositionedMenu"; -->
-<!-- import MenusSimpleListMenuHelloworld from "@site/src/components/from_mui/menus/SimpleListMenu"; -->
-<!-- import MenusTypographyMenuHelloworld from "@site/src/components/from_mui/menus/TypographyMenu"; -->
+
+import MenusPositionedMenuHelloworld from "@site/src/components/from_mui/menus/PositionedMenu";
+import MenusSimpleListMenuHelloworld from "@site/src/components/from_mui/menus/SimpleListMenu";
+import MenusTypographyMenuHelloworld from "@site/src/components/from_mui/menus/TypographyMenu";
 
 import ModalBasicModalHelloworld from "@site/src/components/from_mui/modal/BasicModal";
 import ModalKeepMountedModalHelloworld from "@site/src/components/from_mui/modal/KeepMountedModal";
 import ModalModalUnstyledHelloworld from "@site/src/components/from_mui/modal/ModalUnstyled";
 import ModalNestedModalHelloworld from "@site/src/components/from_mui/modal/NestedModal";
 
-<!-- import ModalServerModalHelloworld from "@site/src/components/from_mui/modal/ServerModal"; -->
+import ModalServerModalHelloworld from "@site/src/components/from_mui/modal/ServerModal";
+
 <!-- import ModalSpringModalHelloworld from "@site/src/components/from_mui/modal/SpringModal"; -->
-<!-- import ModalTransitionsModalHelloworld from "@site/src/components/from_mui/modal/TransitionsModal"; -->
+
+import ModalTransitionsModalHelloworld from "@site/src/components/from_mui/modal/TransitionsModal";
 
 import NoSsrFrameDeferringHelloworld from "@site/src/components/from_mui/no-ssr/FrameDeferring";
 import NoSsrSimpleNoSsrHelloworld from "@site/src/components/from_mui/no-ssr/SimpleNoSsr";
