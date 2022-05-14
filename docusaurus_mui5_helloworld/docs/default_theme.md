@@ -2035,23 +2035,23 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### SkeletonChildrenHelloworld
 
-<!-- <SkeletonSkeletonChildrenHelloworld /> -->
+<SkeletonSkeletonChildrenHelloworld />
 
 ### SkeletonColorHelloworld
 
-<!-- <SkeletonSkeletonColorHelloworld /> -->
+<SkeletonSkeletonColorHelloworld />
 
 ### SkeletonTypographyHelloworld
 
-<!-- <SkeletonSkeletonTypographyHelloworld /> -->
+<SkeletonSkeletonTypographyHelloworld />
 
 ### VariantsHelloworld
 
-<!-- <SkeletonVariantsHelloworld /> -->
+<SkeletonVariantsHelloworld />
 
 ### YouTubeHelloworld
 
-<!-- <SkeletonYouTubeHelloworld /> -->
+<SkeletonYouTubeHelloworld />
 
 ## Slider
 
