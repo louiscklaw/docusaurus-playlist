@@ -565,15 +565,19 @@ import TransitionsSimpleZoomHelloworld from "@site/src/components/from_mui/trans
 import TransitionsSlideFromContainerHelloworld from "@site/src/components/from_mui/transitions/SlideFromContainer";
 import TransitionsTransitionGroupExampleHelloworld from "@site/src/components/from_mui/transitions/TransitionGroupExample";
 
-<!-- import TreeViewBarTreeViewHelloworld from "@site/src/components/from_mui/tree-view/BarTreeView"; -->
-<!-- import TreeViewControlledTreeViewHelloworld from "@site/src/components/from_mui/tree-view/ControlledTreeView"; -->
+import TreeViewBarTreeViewHelloworld from "@site/src/components/from_mui/tree-view/BarTreeView";
+
+import TreeViewControlledTreeViewHelloworld from "@site/src/components/from_mui/tree-view/ControlledTreeView";
+
 <!-- import TreeViewCustomizedTreeViewHelloworld from "@site/src/components/from_mui/tree-view/CustomizedTreeView"; -->
-<!-- import TreeViewDisabledTreeItemsHelloworld from "@site/src/components/from_mui/tree-view/DisabledTreeItems"; -->
-<!-- import TreeViewFileSystemNavigatorHelloworld from "@site/src/components/from_mui/tree-view/FileSystemNavigator"; -->
-<!-- import TreeViewGmailTreeViewHelloworld from "@site/src/components/from_mui/tree-view/GmailTreeView"; -->
-<!-- import TreeViewIconExpansionTreeViewHelloworld from "@site/src/components/from_mui/tree-view/IconExpansionTreeView"; -->
-<!-- import TreeViewMultiSelectTreeViewHelloworld from "@site/src/components/from_mui/tree-view/MultiSelectTreeView"; -->
-<!-- import TreeViewRichObjectTreeViewHelloworld from "@site/src/components/from_mui/tree-view/RichObjectTreeView";  -->
+
+import TreeViewDisabledTreeItemsHelloworld from "@site/src/components/from_mui/tree-view/DisabledTreeItems";
+import TreeViewFileSystemNavigatorHelloworld from "@site/src/components/from_mui/tree-view/FileSystemNavigator";
+import TreeViewGmailTreeViewHelloworld from "@site/src/components/from_mui/tree-view/GmailTreeView";
+
+import TreeViewIconExpansionTreeViewHelloworld from "@site/src/components/from_mui/tree-view/IconExpansionTreeView";
+import TreeViewMultiSelectTreeViewHelloworld from "@site/src/components/from_mui/tree-view/MultiSelectTreeView";
+import TreeViewRichObjectTreeViewHelloworld from "@site/src/components/from_mui/tree-view/RichObjectTreeView";
 
 import TypographyTypesHelloworld from "@site/src/components/from_mui/typography/Types";
 import TypographyTypographyThemeHelloworld from "@site/src/components/from_mui/typography/TypographyTheme";
