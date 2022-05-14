@@ -1931,31 +1931,31 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### BasicRatingHelloworld
 
-<!-- <RatingBasicRatingHelloworld /> -->
+<RatingBasicRatingHelloworld />
 
 ### CustomizedRatingHelloworld
 
-<!-- <RatingCustomizedRatingHelloworld /> -->
+<RatingCustomizedRatingHelloworld />
 
 ### HalfRatingHelloworld
 
-<!-- <RatingHalfRatingHelloworld /> -->
+<RatingHalfRatingHelloworld />
 
 ### HoverRatingHelloworld
 
-<!-- <RatingHoverRatingHelloworld /> -->
+<RatingHoverRatingHelloworld />
 
 ### RadioGroupRatingHelloworld
 
-<!-- <RatingRadioGroupRatingHelloworld /> -->
+<RatingRadioGroupRatingHelloworld />
 
 ### RatingSizeHelloworld
 
-<!-- <RatingRatingSizeHelloworld /> -->
+<RatingRatingSizeHelloworld />
 
 ### TextRatingHelloworld
 
-<!-- <RatingTextRatingHelloworld /> -->
+<RatingTextRatingHelloworld />
 
 ## Selects
 
