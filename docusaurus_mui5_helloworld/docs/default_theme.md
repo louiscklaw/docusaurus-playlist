@@ -902,67 +902,67 @@ import TestTheme from '@site/src/Themes/TestTheme';
 
 ### BasicButtonsHelloworld
 
-<!-- <ButtonsBasicButtonsHelloworld /> -->
+<ButtonsBasicButtonsHelloworld />
 
 ### ButtonBaseHelloworld
 
-<!-- <ButtonsButtonBaseHelloworld /> -->
+<ButtonsButtonBaseHelloworld />
 
 ### ButtonSizesHelloworld
 
-<!-- <ButtonsButtonSizesHelloworld /> -->
+<ButtonsButtonSizesHelloworld />
 
 ### ColorButtonsHelloworld
 
-<!-- <ButtonsColorButtonsHelloworld /> -->
+<ButtonsColorButtonsHelloworld />
 
 ### ContainedButtonsHelloworld
 
-<!-- <ButtonsContainedButtonsHelloworld /> -->
+<ButtonsContainedButtonsHelloworld />
 
 ### CustomizedButtonsHelloworld
 
-<!-- <ButtonsCustomizedButtonsHelloworld /> -->
+<ButtonsCustomizedButtonsHelloworld />
 
 ### DisableElevationHelloworld
 
-<!-- <ButtonsDisableElevationHelloworld /> -->
+<ButtonsDisableElevationHelloworld />
 
 ### IconButtonColorsHelloworld
 
-<!-- <ButtonsIconButtonColorsHelloworld /> -->
+<ButtonsIconButtonColorsHelloworld />
 
 ### IconButtonSizesHelloworld
 
-<!-- <ButtonsIconButtonSizesHelloworld /> -->
+<ButtonsIconButtonSizesHelloworld />
 
 ### IconButtonsHelloworld
 
-<!-- <ButtonsIconButtonsHelloworld /> -->
+<ButtonsIconButtonsHelloworld />
 
 ### IconLabelButtonsHelloworld
 
-<!-- <ButtonsIconLabelButtonsHelloworld /> -->
+<ButtonsIconLabelButtonsHelloworld />
 
 ### LoadingButtonsHelloworld
 
-<!-- <ButtonsLoadingButtonsHelloworld /> -->
+<ButtonsLoadingButtonsHelloworld />
 
 ### LoadingButtonsTransitionHelloworld
 
-<!-- <ButtonsLoadingButtonsTransitionHelloworld /> -->
+<ButtonsLoadingButtonsTransitionHelloworld />
 
 ### OutlinedButtonsHelloworld
 
-<!-- <ButtonsOutlinedButtonsHelloworld /> -->
+<ButtonsOutlinedButtonsHelloworld />
 
 ### TextButtonsHelloworld
 
-<!-- <ButtonsTextButtonsHelloworld /> -->
+<ButtonsTextButtonsHelloworld />
 
 ### UploadButtonsHelloworld
 
-<!-- <ButtonsUploadButtonsHelloworld /> -->
+<ButtonsUploadButtonsHelloworld />
 
 ## Cards
 
