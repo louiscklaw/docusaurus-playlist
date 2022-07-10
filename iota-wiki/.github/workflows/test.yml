@@ -1,0 +1,24 @@
+name: test
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    env:
+      BUILD: '*/*/documentation'
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Needed for showLastUpdateTime to work
+      - name: Init and update submodules
+        run: |
+          git submodule update --init --recursive --remote
+      - name: Install dependencies
+        run: |
+          yarn install --immutable
+      - name: Build
+        run: |
+          yarn build

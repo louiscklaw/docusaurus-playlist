@@ -1,0 +1,1 @@
+yarn add @docusaurus/plugin-ideal-image@2.0.0-beta.20
