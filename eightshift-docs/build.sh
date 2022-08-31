@@ -2,5 +2,8 @@
 
 set -ex
 
-yarn
-yarn start
+npm i -d
+
+npm run build
+
+npm run serve

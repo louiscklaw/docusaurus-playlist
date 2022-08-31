@@ -30,8 +30,11 @@
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "serve": "docusaurus serve",
-    "prettier_file": "prettier --write \"./src/**/*.{js,jsx,ts, tsx}\"",
-    "clear": "docusaurus clear"
+    "clear": "docusaurus clear",
+    "docker_rebuild": "docker compose up -d --build",
+    "into_docker": "docker compose exec -it dev-site bash",
+    "prettier_format": "prettier --write ./src/**/*.{js,jsx}",
+    "gitUpdate": "git add . && git commit -m'update eightshift,' && git push"
   },
   "dependencies": {
     "@docusaurus/core": "^2.0.0-beta.18",
