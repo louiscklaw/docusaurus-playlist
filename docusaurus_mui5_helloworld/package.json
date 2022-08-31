@@ -15,7 +15,10 @@
     "gitUpdate": "git pull && git add . && git commit -m\"update docusaurus_mui5_helloworld,\" && git push",
     "update_root_docs": "yarn --dev && yarn build && rm -rf ../docs && mkdir -p ../docs && cp -R build/* ../docs",
     "push_docs": "yarn update_root_docs && git add ../docs && git commit -m\"update docs,\" && git push",
-    "dev": "yarn --dev && yarn start"
+    "dev": "yarn --dev && yarn build && yarn serve",
+    "docker_rebuild": "docker compose up -d --build",
+    "into_docker": "docker compose exec -it dev-site bash",
+    "prettier_format": "prettier --write ./src/**/*.{js,jsx}"
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-beta.20",
