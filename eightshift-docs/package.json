@@ -37,9 +37,9 @@
     "gitUpdate": "git add . && git commit -m'update eightshift,' && git push"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-beta.18",
-    "@docusaurus/preset-classic": "^2.0.0-beta.18",
-    "@docusaurus/theme-search-algolia": "^2.0.0-beta.18",
+    "@docusaurus/core": "^2.0.1",
+    "@docusaurus/preset-classic": "^2.0.1",
+    "@docusaurus/theme-search-algolia": "^2.0.1",
     "@eightshift/frontend-libs": "^6.0.2",
     "docusaurus-plugin-sass": "^0.2.2",
     "prettier": "^2.7.1",
