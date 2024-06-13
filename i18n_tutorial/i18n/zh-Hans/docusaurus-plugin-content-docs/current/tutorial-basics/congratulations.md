@@ -1,0 +1,21 @@
+---
+sidebar_position: 6
+---
+
+# 恭喜！
+
+您剛剛學習了 **Docusaurus 的基礎** 並對 **初始模板** 進行了一些更改。
+
+Docusaurus 還有 **更多可提供**！
+
+有 **5 分鐘** 的時間嗎？觀看 **[版本控制](../tutorial-extras/manage-docs-versions.md)** 和 **[多語言](../tutorial-extras/translate-your-site.md)**。
+
+這個教程中的任何地方 **不清楚** 或 **有 bug** 嗎？ [請回報它！](https://github.com/facebook/docusaurus/discussions/4610)
+
+## 接下來呢？
+
+- 閱讀 [官方文檔](https://docusaurus.io/)。
+- 添加一個自定義的 [設計和佈局](https://docusaurus.io/docs/styling-layout)
+- 添加一個 [搜索欄](https://docusaurus.io/docs/search)
+- 在 [Docusaurus 展示](https://docusaurus.io/showcase) 中找到靈感
+- 參與 [Docusaurus 社區](https://docusaurus.io/community/support)

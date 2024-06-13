@@ -1,0 +1,56 @@
+---
+sidebar_position: 2
+---
+
+# 建立一份文件
+
+文件是**由一組頁面**通過以下方式連接在一起：
+
+- 一個**側邊欄**
+- **上一頁/下一頁**導航
+- **版本控制**
+
+## 建立你的第一份文件
+
+在 `docs/hello.md` 建立一個 Markdown 文件：
+
+```md title="docs/hello.md"
+# 你好
+
+這是我的 **第一份 Docusaurus 文件**！
+```
+
+現在有一份新文件可以在 `http://localhost:3000/docs/hello` 查看。
+
+## 設定側邊欄
+
+Docusaurus 會自動**從 `docs` 文件夾**建立一個側邊欄。
+
+添加元數據來自定義側邊欄標籤和位置：
+
+```md title="docs/hello.md" {1-4}
+---
+sidebar_label: '嗨！'
+sidebar_position: 3
+---
+
+# 你好
+
+這是我的 **第一份 Docusaurus 文件**！
+```
+
+也可以在 `sidebars.js` 中明確建立你的側邊欄：
+
+```js title="sidebars.js"
+module.exports = {
+  tutorialSidebar: [
+    {
+      type: 'category',
+      label: '教程',
+      // highlight-next-line
+      items: ['hello'],
+    },
+  ],
+};
+```
+

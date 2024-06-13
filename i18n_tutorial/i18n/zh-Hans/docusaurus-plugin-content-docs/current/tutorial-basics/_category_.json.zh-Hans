@@ -1,0 +1,16 @@
+# 指示
+        - 將以下 MARKDOWN 內容翻譯成繁體中文
+        - 跳過 frontmatter 的翻譯，保持原樣
+        - 跳過程式碼區塊的翻譯，保持原樣
+
+        MARKDOWN=```
+        {
+  "label": "Tutorial - Basics",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "5 分鐘學習 Docusaurus 最重要的概念。"
+  }
+}
+
+        

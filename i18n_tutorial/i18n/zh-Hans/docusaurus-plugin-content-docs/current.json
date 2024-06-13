@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "教學 - 基礎",
+    "description": "側邊欄 tutorialSidebar 中類別 Tutorial - Basics 的標籤"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "學習 Docusaurus 最重要的概念僅需 5 分鐘。",
+    "description": "側邊欄 tutorialSidebar 中類別 Tutorial - Basics 的 generated-index 頁面描述"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "教學 - 額外",
+    "description": "側邊欄 tutorialSidebar 中類別 Tutorial - Extras 的標籤"
+  }
+}
